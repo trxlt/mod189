@@ -1,0 +1,6 @@
+{
+    "parent":"carlin:item/standard_item",
+    "textures": {
+        "layer0":"carlin:items/tutorial_item"
+    }
+}

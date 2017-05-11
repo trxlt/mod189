@@ -1,0 +1,59 @@
+*target*
+*.jar
+*.war
+*.ear
+*.class
+
+run/
+bin/
+build/
+eclipse/
+logs/
+mods/
+config/
+saves/
+.settings/
+server.properties 
+*.properties 
+.gradle/
+screenshots/
+.metadata/
+.settings/
+.classpath
+.project
+gradlew
+options.txt
+usernamecache.json
+crash-reports/
+*.fdx
+*.fnm
+*.tis
+.recommenders/
+*.launch
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+.DS_Store
+CREDITS-fml.txt
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+Paulscode IBXM Library License.txt
+Paulscode SoundSystem CodecIBXM License.txt
+forge-1.8.9-11.15.1.1722-changelog.txt
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch

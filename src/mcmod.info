@@ -1,0 +1,24 @@
+[
+   {
+      "modid":"carlin",
+      "name":"Luke's Awesome Mod",
+      "description":"This is Luke's Awesome Mod, which is an awesome mod from Luke",
+      "version":"1.0",
+      "credits":"Created by Luke Carlin and Ed Carlin",
+      "logoFile":"/gfx/buildcraft/logo.png",
+      "mcversion":"",
+      "url":"http://www.mod-buildcraft.com/",
+      "updateUrl":"",
+      "authors":[
+         "Luke Carlin",
+         "Ed Carlin"
+      ],
+      "parent":"",
+      "screenshots":[
+
+      ],
+      "dependencies":[
+         "mod_MinecraftForge"
+      ]
+   }
+]

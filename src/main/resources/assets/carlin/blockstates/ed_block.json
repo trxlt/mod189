@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "carlin:ed_block" }
+    }
+}

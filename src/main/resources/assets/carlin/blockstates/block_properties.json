@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=white": { "model":"carlin:block_properties_white" },
+        "type=black": { "model":"carlin:block_properties_black" }
+    }
+}

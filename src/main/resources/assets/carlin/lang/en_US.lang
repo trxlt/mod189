@@ -1,0 +1,35 @@
+item.tutorial_item.name=Tutorial Item
+tile.tutorial_block.name=Tutorial Block
+tile.tutorial_ore.name=Tutorial Ore
+tile.tutorial_multi_ore.name=Tutorial Multi Ore
+tile.block_properties.black.name=Tutorial Block Properties Black
+tile.block_properties.white.name=Tutorial Block Properties White
+
+tile.luke_block.name=Super Diamond Ore
+
+item.luke_sword.name=Luke's Super Slasher
+item.luke_pickaxe.name=Luke's Super Pick
+item.luke_shovel.name=Luke's Super Spade
+item.luke_hoe.name=Luke's Super Hoe
+item.luke_helmet.name=Luke's super Hat
+item.luke_chestplate.name=Luke's Super shirt
+item.luke_leggings.name=Luke's Super pants
+item.luke_boots.name=Luke's Super shoes
+item.luke_ingot.name=Luke's Really Awesome Ingot
+item.luke_food.name=Luke's Super FrenchFries
+
+tile.ed_block.name=Carlinium Ore
+item.ed_ingot.name=Carlinium Ingot
+item.ed_helmet.name=Carlinium Helmet
+item.ed_chestplate.name=Carlinium Chestplate
+item.ed_leggings.name=Carlinium Leggings
+item.ed_boots.name=Carlinium Boots
+item.ed_sword.name=Carlinium Slasher
+item.ed_pickaxe.name=Carlinium Pickaxe
+item.ed_shovel.name=Carlinium Shovel
+item.ed_hoe.name=Carlinium Hoe
+item.ed_axe.name=Carlinium Axe
+
+entity.carlin.luke_blaze_cow.name=My Awesome Mob
+entity.carlin.blue_creeper.name=Blue Creeper
+entity.carlin.red_zombie.name=Red Zombie

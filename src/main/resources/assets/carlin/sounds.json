@@ -1,0 +1,22 @@
+{
+   "entity.red_zombie.say":{
+      "sounds":[
+         "red_zombie/say"
+      ]
+   },
+   "entity.red_zombie.hurt":{
+      "sounds":[
+         "red_zombie/hurt"
+      ]
+   },
+   "entity.red_zombie.death":{
+      "sounds":[
+         "red_zombie/death"
+      ]
+   },
+   "entity.red_zombie.step":{
+      "sounds":[
+         "red_zombie/step"
+      ]
+   }
+}
